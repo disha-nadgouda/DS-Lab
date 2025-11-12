@@ -1,0 +1,16 @@
+Open Command Prompt
+Press Win + R, type cmd, and press Enter.
+
+Upgrade pip (optional but recommended)
+
+python -m pip install --upgrade pip
+
+
+Install Jupyter Notebook
+
+pip install notebook
+
+
+Run Jupyter Notebook
+
+jupyter notebook
